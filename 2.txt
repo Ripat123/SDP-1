@@ -1,0 +1,10 @@
+		Date: 18-03-2022 
+		Patient Name: Foysal
+		Patient Age: 21
+		Symptom: sdfsfd
+
+		Medicine:
+		1.Medicine Name: napa1
+		Note: 3
+		2.Medicine Name: napa2
+		Note: 4

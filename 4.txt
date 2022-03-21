@@ -1,0 +1,10 @@
+		Date: 21-03-2022 
+		Patient Name: Joshim
+		Patient Age: 32
+		Symptom: headache
+
+		Medicine:
+		1.Medicine Name: napa 500
+		Note: 3 times after eating
+		2.Medicine Name: rab 20
+		Note: 2 times before eating

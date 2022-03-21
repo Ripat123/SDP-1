@@ -1,0 +1,14 @@
+1  Ripat  01825909842  22  fever  1
+
+2  Foysal  028773734  21  sdfsfd  10
+
+3  Sdp  546  22  hh  3
+
+4  Joshim  524351  32  headache  12
+
+5  Sample  25432323  22  fever  13
+
+6  Hasan  465564  21  fever  1
+
+7  Samir  01825909842  22  fever  16
+

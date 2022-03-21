@@ -1,0 +1,8 @@
+		Date: 18-03-2022 
+		Patient Name: Sdp
+		Patient Age: 22
+		Symptom: hh
+
+		Medicine:
+		1.Medicine Name: 
+		Note: djk skldf sjklfh

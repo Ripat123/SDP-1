@@ -1,0 +1,12 @@
+		Date: 18-03-2022 
+		Patient Name: Ripat
+		Patient Age: 22
+		Symptom: fever
+
+		Medicine:
+		1.Medicine Name: napa
+		Note: test1
+		2.Medicine Name: napa2
+		Note: test2
+		3.Medicine Name: napa3
+		Note: test3
